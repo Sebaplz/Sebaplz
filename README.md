@@ -8,7 +8,7 @@ Mi meta es encontrar un entorno laboral en el que pueda aplicar mis habilidades 
 
 Habilidades: REACT / JAVA / JS  / HTML / CSS /
 
-- 🌱 Estoy aprendiendo TypeScript / Nodejs 
+- 🌱 Estoy aprendiendo Nextjs / TypeScript / Nodejs 
 - 📫 Cómo contactarme: sebastian.h.neira@outlook.com 
 
 
